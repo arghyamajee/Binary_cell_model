@@ -14,4 +14,4 @@ By minimizing the relevant free energy functional, this code determines the surf
 
 After compiling, the code can be run with the parameters in the runscript.txt file. Expected output files ('data.txt') are also provided. Two important parameters for this model are $\alpha$ and $\chi$. One can obtain phase diagrams like the ones shown below by varying these parameters. The left panel shows that the charge densities $\sigma_{1,2}$ (scaled such that on each sphere it varies within the interval -0.5 and 0.5) of the two spheres are not equal for certain values of alpha and chi parameters. For equally charged spheres, the quantity $|\sigma_1 - \sigma_2|$ is zero. The right panel shows the  magnitude of the corresponding electric field $E$ at the cell boundary. Clearly, $E$ is zero for a symmetric situation ($\sigma_1 = \sigma_2$) and nonzero for an asymmetric situation ($\sigma_1 \neq \sigma_2$).
 
-<img src="Fig_sigma.png" width="475" height="365"> &ensp;&ensp; <img src="Fig_E.png" width="475" height="365">
+<img src="Fig_sigma.png" width="375" height="265"> &ensp;&ensp; <img src="Fig_E.png" width="375" height="265">
