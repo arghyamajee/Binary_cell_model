@@ -4,7 +4,7 @@ Charge-regulation refers to the variable nature of surface charges of any colloi
 
 The electrostatic interaction between the spheres is described using nonlinear Poisson-Boltzmann theory and the chemical processes driving the surface charge regulation are described via two interaction parameters: (i) proton-surface interaction described by alpha, and (ii) proton-proton interaction at a surface described by chi.
 
-For further details of the theory, please check our published paper: [Phys. Rev. Research 2, 043417 (2020)] (https://doi.org/10.1103/PhysRevResearch.2.043417)
+For further details of the theory, please check our published paper: [Phys. Rev. Research **2**, 043417 (2020)](https://doi.org/10.1103/PhysRevResearch.2.043417)
 
 **What does the code do:**
 
