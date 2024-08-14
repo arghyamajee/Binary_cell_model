@@ -4,8 +4,6 @@
 #include<cmath> //for using math functions
 #include<limits> //for using numeric limits
 #include<vector> //for using vectors
-#include<fstream> //for using files
-#include<sstream> //for using strings
 #include<omp.h>
 using namespace std;
 
