@@ -8,7 +8,7 @@ For further details of the theory, please check our published paper: [Phys. Rev.
 
 **What does the code do:**
 
-By minimizing the relevant free energy functional, this code determines the surface charge densities and the associated electrostatic interaction of two such neighboring spheres. It uses a combination of **finite element** and **gradient descent** methods and is written in **C++**. The code also uses **OpenMP** to perform part of the computation in parallel. 
+By minimizing the relevant free energy functional, this code determines the surface charge densities and the associated electrostatic interaction of two such neighboring spheres for given values of $\alpha$, $\chi$, and cell radius $R_c$. It uses a combination of **finite element** and **gradient descent** methods and is written in **C++**. The code also uses **OpenMP** to perform part of the computation in parallel.
 
 **Sample parameters and output:**
 
